@@ -1,5 +1,9 @@
+name: lukhisan noah
 layout_spectrum: 0.891544043228104
 typography_spectrum: 0.9397268275100517
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#535355'
@@ -11,19 +15,18 @@ color:
   lightness: 0.5055540573787829
   saturation: 0.22288172954887078
   rhythmicContrast: 0.6252344495693387
-name: lukhisan noah
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
+title: photography | photomotion |
+description: ' Events, Parties, Corporate, Portraiture,'
+author:
+  name: Noah Lukhisan
+  url: fb.com/lukhisan
+  email: Lukhisan@outlook.com
+content_rating:
+  adult: false
 navigation:
   - name: Intro
     id: ea6ba3f5-befd-4681-95f6-bd8626d60937
     type: content
-title: lukhisan
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: quote
@@ -32,25 +35,20 @@ content:
       Journey</blockquote>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://www.facebook.com'
-        name: Facebook
-        favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
-        domain: www.facebook.com
-      keywords: []
-      description: 'i do not owe the music , i owe the video of my Lapse Journey'
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      title: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
+      '@context': 'http://schema.org'
       isBasedOnUrl: 'https://www.facebook.com/mdno.sg/videos/1063618393683962/'
-      datePublished: null
+      keywords: []
+      title: ''
+      publisher:
+        name: Facebook
+        domain: www.facebook.com
+        url: 'https://www.facebook.com'
+        favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+      author: []
+      starred: false
+      description: 'i do not owe the music , i owe the video of my Lapse Journey'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: 'i do not owe the music , i owe the video of my Lapse Journey'
-description: ' Events, Parties, Corporate, Portraiture,'
 github: true
-url: 'http://lukhisan.com'
