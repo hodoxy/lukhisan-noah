@@ -1,0 +1,30 @@
+layout_spectrum: 0.891544043228104
+typography_spectrum: 0.9397268275100517
+color:
+  brandColors:
+    - '#535355'
+    - '#000000'
+    - '#ADADAD'
+    - '#EEEDE8'
+    - '#788A24'
+  brandStrength: 0.03133091154840249
+  lightness: 0.5055540573787829
+  saturation: 0.22288172954887078
+  rhythmicContrast: 0.6252344495693387
+name: lukhisan noah
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Intro
+    id: ea6ba3f5-befd-4681-95f6-bd8626d60937
+    type: content
+title: lukhisan
+content: []
+description: ' Events, Parties, Corporate, Portraiture,'
+github: true
+url: 'http://lukhisan.com'
